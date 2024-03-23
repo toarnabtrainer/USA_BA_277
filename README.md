@@ -44,3 +44,9 @@ https://www.mountaingoatsoftware.com/uploads/documents/example-user-stories.pdf
 * **MS-Excel Cheat Sheet:**	https://drive.google.com/file/d/1dGDoOiIhFFD71FxUxMO-ZYYE2UYLNGhR/view?usp=sharing
 
 <hr>
+
+## Sample User Story Template:
+
+![image](https://github.com/toarnabtrainer/USA_BA_277/assets/111301975/d19cf3c7-6afe-460b-93bb-5c3a1e75b498)
+
+<hr>
